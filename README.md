@@ -1,8 +1,10 @@
 # notes
 notes every day.
 
-from now on
+from now on!
 
 record the life.
 
-come on
+come on!
+
+do not be hesitate.
