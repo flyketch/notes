@@ -64,5 +64,5 @@ paly and study one piece backbone.js.
 mocha test and alidayu.
 
 2017.3.30
-apple id test.
+apple id test alipay.
 
