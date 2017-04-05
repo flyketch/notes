@@ -77,3 +77,6 @@ gta5
 
 2017.4.3
 go out and study.
+
+2017.4.4
+go out and wash clothes.
