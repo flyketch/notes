@@ -98,3 +98,6 @@ git pull request and new environment.
 
 2017.4.11
 chat windows and refound.
+
+2017.4.12
+chat windows.
