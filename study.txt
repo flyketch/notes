@@ -104,3 +104,6 @@ chat windows.
 
 2017.4.13
 tired. chat windows and css.
+
+2017.4.14
+pay
