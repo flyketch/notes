@@ -5,6 +5,6 @@ from now on!
 
 record the life.
 
-come on!
-
 do not be hesitate.
+
+come on!
