@@ -113,3 +113,6 @@ games and lol matches
 
 2017.4.17
 chat windows.
+
+2017.4.18
+we chat pay.
