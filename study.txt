@@ -119,3 +119,6 @@ we chat pay.
 
 2017.4.19
 chat windows.
+
+2017.4.20
+chat windows and bugs.
