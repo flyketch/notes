@@ -122,3 +122,6 @@ chat windows.
 
 2017.4.20
 chat windows and bugs.
+
+2017.4.21
+privacy and protol.
