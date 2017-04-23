@@ -125,3 +125,6 @@ chat windows and bugs.
 
 2017.4.21
 privacy and protol.
+
+2017.4.22-4.23
+shanghai zoom and paly.
