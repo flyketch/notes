@@ -130,4 +130,7 @@ privacy and protol.
 shanghai zoom and paly.
 
 2017.4.24
-ctrl+enter
+ctrl+enter.
+
+2017.4.25
+ctrl+enter press pic.
