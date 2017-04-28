@@ -139,7 +139,8 @@ ctrl+enter press pic.
 the first one to the office wxpay.
 
 2017.4.27
-address and *.
+address and * send_img.
 
 2017.4.28
-invalid.
+ send img.
+
