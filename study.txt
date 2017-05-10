@@ -167,3 +167,6 @@ stay at home
 
 2017.5.8
 new iMac
+
+2017.5.9
+bug
