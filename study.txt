@@ -169,4 +169,4 @@ stay at home
 new iMac
 
 2017.5.9
-bug
+bug and wxmp
