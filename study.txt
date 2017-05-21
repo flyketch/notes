@@ -203,3 +203,6 @@ wx detail
 
 2017.5.20
 book and msi
+
+2017.5.21
+hot pod and out
