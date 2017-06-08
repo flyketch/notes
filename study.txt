@@ -236,3 +236,6 @@ wx pay
 
 2017.5.31
 wx detail
+
+2017.6.1
+ping hu
