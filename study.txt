@@ -257,3 +257,6 @@ wwdc 2017
 
 2017.6.7
 first day of gaokao
+
+2017.6.8
+second day of gaokao
