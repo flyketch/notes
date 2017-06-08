@@ -239,3 +239,6 @@ wx detail
 
 2017.6.1
 ping hu
+
+2017.6.2
+jia xing home
