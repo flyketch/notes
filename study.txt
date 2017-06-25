@@ -296,3 +296,6 @@ xcx bug
 
 2017.6.22
 bug
+
+2017.6.23
+mac os high serrior
