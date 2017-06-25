@@ -299,3 +299,6 @@ bug
 
 2017.6.23
 mac os high serrior
+
+2017.6.24-25
+home and railway station
