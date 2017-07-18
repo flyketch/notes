@@ -365,3 +365,6 @@ zz and kk in jiaxing
 
 2017.7.17
 tests 
+
+2017.7.18
+selenium and zz goto beijing
