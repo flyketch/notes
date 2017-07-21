@@ -374,3 +374,6 @@ the first one in office
 
 2017.7.20
 tong shang selenium
+
+2017.7.21
+the rest of store and amount
