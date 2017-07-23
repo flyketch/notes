@@ -377,3 +377,6 @@ tong shang selenium
 
 2017.7.21
 the rest of store and amount
+
+2017.7.22
+rest
