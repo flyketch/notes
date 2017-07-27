@@ -386,3 +386,6 @@ pair and rest
 
 2017.7.24
 selenium
+
+2017.7.25
+update password
