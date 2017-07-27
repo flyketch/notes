@@ -392,3 +392,6 @@ update password
 
 2017.7.26
 xcx and web password
+
+2017.7.27
+chat 
