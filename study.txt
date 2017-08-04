@@ -413,3 +413,6 @@ xcx order_prods
 
 2017.8.2
 no money in wx and alipay, xcx
+
+2017.8.3
+alipay bug
