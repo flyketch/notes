@@ -422,3 +422,6 @@ none
 
 2017.8.5
 stay at home
+
+2017.8.6
+blog and books
