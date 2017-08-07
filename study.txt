@@ -425,3 +425,6 @@ stay at home
 
 2017.8.6
 blog and books
+
+2017.8.7
+none
