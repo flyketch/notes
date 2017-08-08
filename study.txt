@@ -428,3 +428,5 @@ blog and books
 
 2017.8.7
 none and selenium
+
+2017.8.8
