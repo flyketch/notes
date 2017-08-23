@@ -473,3 +473,6 @@ new xcx
 
 2017.8.22
 xcx stock
+
+2017.8.23
+chat close
