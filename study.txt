@@ -476,3 +476,6 @@ xcx stock
 
 2017.8.23
 chat close
+
+2017.8.24
+web xcx
