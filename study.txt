@@ -488,3 +488,6 @@ dianxin kuandai
 
 2017.8.28
 admin pic
+
+2017.8.29
+os startup
