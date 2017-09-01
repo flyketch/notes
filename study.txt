@@ -491,3 +491,6 @@ admin pic
 
 2017.8.29
 os startup
+
+2017.8.30
+return bug
