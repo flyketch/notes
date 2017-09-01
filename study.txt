@@ -494,3 +494,6 @@ os startup
 
 2017.8.30
 return bug
+
+2017.8.31
+different permission
