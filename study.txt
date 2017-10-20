@@ -614,3 +614,6 @@ xcx 1:1
 
 2017.10.17
 points log
+
+2017.10.18
+xcx category
