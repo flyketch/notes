@@ -635,3 +635,6 @@ points rule
 
 2017.10.24
 mine center level
+
+2017.10.25
+chat bug
