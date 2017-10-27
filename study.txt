@@ -641,3 +641,6 @@ chat bug
 
 2017.10.26
 go to pinghu 1z1x
+
+2017.10.27
+rule of points
