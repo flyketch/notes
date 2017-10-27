@@ -638,3 +638,6 @@ mine center level
 
 2017.10.25
 chat bug
+
+2017.10.26
+go to pinghu 1z1x
