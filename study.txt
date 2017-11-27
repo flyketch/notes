@@ -728,3 +728,6 @@ activity page
 
 2017.11.25-26
 home and none
+
+2017.11.27
+points detail
