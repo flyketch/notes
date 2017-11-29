@@ -733,4 +733,7 @@ home and none
 points detail
 
 2017.11.28
+reset password and category
+
+2017.11.29
 first in office
