@@ -1,10 +1,19 @@
 # notes
-notes every day.
+1、 notes every day.
 
-from now on!
+2、 from now on!
 
-record the life.
+3、 record the life.
 
-do not be hesitate.
+4、 do not be hesitate.
 
-come on!
+5、 come on!
+
+#content
+1、 php
+
+2、 postgresql
+
+3、 wordpress
+
+4、 python
