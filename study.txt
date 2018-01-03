@@ -812,3 +812,6 @@ stay at home
 
 2018.1.1
 study
+
+2018.1.2
+new people
