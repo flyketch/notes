@@ -1,0 +1,826 @@
+2017.2.28
+atom apt-get pingyin 
+pen and paper.
+
+1h/am 3h/pm pair.
+
+6month/pair invidily.
+
+2017.3.1
+atom plugins downloads.
+
+minimap color-picker file-icons docblockr autocomplete-plus linter=php 
+atom-beautify
+
+2017.3.2
+bootstrap downloads.study html css and javascript.
+
+2017.3.7
+study css.
+
+2017.3.10
+review css and modified vb. 
+
+2017.3.13
+css selector font and media. 
+
+2017.3.14
+bootstrap.
+
+2017.3.15
+continue learning bootstrap and it is hard.
+
+2017.3.16
+bootstrap css and js.
+
+2017.3.19
+html5 and css3
+
+2017.3.20
+chat windows and wordpress.
+
+2017.3.21
+php study and json. 
+
+2017.3.22
+pair.
+
+2017.3.23
+pair and should study rest、php5.
+
+2017.3.24
+pait and study self.
+
+2017.3.26
+rest and play.
+
+2017.3.27
+pair and study backbone and helper、fixed bug.
+
+2017.3.28
+paly and study one piece backbone.js.
+
+2017.3.29
+mocha test and alidayu.
+
+2017.3.30
+apple id test alipay.
+
+2017.3.31
+chat windows.
+
+2017.4.1
+chat windows and fix bugs.
+
+2017.4.2
+gta5
+
+2017.4.3
+go out and study.
+
+2017.4.4
+go out and wash clothes.
+
+2017.4.5
+chat windows.
+
+2017.4.6
+happy birthday and comment
+
+2017.4.7
+write comments
+
+2017.4.8-4.9
+chat windows books study.
+
+2017.4.10
+git pull request and new environment.
+
+2017.4.11
+chat windows and refound.
+
+2017.4.12
+chat windows.
+
+2017.4.13
+tired. chat windows and css.
+
+2017.4.14
+pay
+
+2017.4.15-16
+games and lol matches
+
+2017.4.17
+chat windows.
+
+2017.4.18
+we chat pay.
+
+2017.4.19
+chat windows.
+
+2017.4.20
+chat windows and bugs.
+
+2017.4.21
+privacy and protol.
+
+2017.4.22-4.23
+shanghai zoom and paly.
+
+2017.4.24
+ctrl+enter.
+
+2017.4.25
+ctrl+enter press pic.
+
+2017.4.26
+the first one to the office wxpay.
+
+2017.4.27
+address and * send_img.
+
+2017.4.28
+send img.
+
+2017.4.29
+wash clothes and lpl.
+
+2017.5.2
+wepay.
+
+2017.5.3
+refresh and local time.
+
+2017.5.4
+vonbros.com
+
+2017.5.5
+detail of products vb
+
+2017.5.6
+wash games.
+
+2017.5.7
+stay at home
+
+2017.5.8
+new iMac
+
+2017.5.9
+bug and wxmp
+
+2017.5.10
+wxmp category
+
+2017.5.11
+wxmp all
+
+2017.5.12
+wxmp detail
+
+2017.5.13
+wash
+
+2017.5.14
+home
+
+2017.5.15
+wx mp
+
+2017.5.16
+wx mp
+
+2017.5.17
+1z1x
+
+2017.5.18
+wx login and register
+
+2017.5.19
+wx detail
+
+2017.5.20
+book and msi
+
+2017.5.21
+hot pod and out
+
+2017.5.22
+skt chanpin
+
+2017.5.23
+wx pay
+
+2017.5.24
+wx detail
+
+2017.5.25
+wx bag
+
+2017.5.26
+wx purchase
+
+2017.5.27
+wx pay
+
+2017.5.28
+wx 
+
+2017.5.29
+stay
+
+2017.5.30
+wx pay
+
+2017.5.31
+wx detail
+
+2017.6.1
+ping hu
+
+2017.6.2
+jia xing home
+
+2017.6.3
+wx pay
+
+2017.6.4
+home
+
+2017.6.5
+yii2
+
+2017.6.6
+wwdc 2017
+
+2017.6.7
+first day of gaokao
+
+2017.6.8
+second day of gaokao
+
+2017.6.9
+firday.
+
+2017.6.10
+ping hu
+
+2017.6.11-6.12
+wx collection
+
+2017.6.13
+vb and xcx
+
+2017.6.14
+1z1x
+
+2017.6.15
+1z1x and test
+
+2017.6.16
+1z1x and vb
+
+2017.6.17-18
+stay at home and writing books note
+
+2017.6.19
+vb xcx
+
+2017.6.20
+xcx bug
+
+2017.6.21
+1z1x bug
+
+2017.6.22
+bug
+
+2017.6.23
+mac os high serrior
+
+2017.6.24-25
+home and railway station
+
+2017.6.26
+the last week order_sn
+
+2017.6.27
+comment return
+
+2017.6.27
+return and refund
+
+2017.6.28
+return and refund
+
+2017.6.29
+xcx
+
+2017.6.30
+xcx
+
+2017.7.1
+dang and new friends
+
+2017.7.2
+books
+
+2017.7.3
+the first in offce
+
+2017.7.4
+xcx protocol
+
+2017.7.5
+seleium and protocol
+
+2017.7.6
+seleium
+
+2017.7.7
+chat search
+
+2017.7.8-7.9
+home and wanda eat fish
+
+2017.7.10
+chat search
+
+2017.7.11
+xcx category
+
+2017.7.12
+the first one in office
+
+2017.7.13
+style of xcx
+
+2017.7.14
+style of xcx
+
+2017.7.15-16
+zz and kk in jiaxing
+
+2017.7.17
+tests 
+
+2017.7.18
+selenium and zz goto beijing
+
+2017.7.19
+the first one in office
+
+2017.7.20
+tong shang selenium
+
+2017.7.21
+the rest of store and amount
+
+2017.7.22
+rest
+
+2017.7.23
+pair and rest
+
+2017.7.24
+selenium
+
+2017.7.25
+update password
+
+2017.7.26
+xcx and web password
+
+2017.7.27
+chat 
+
+2017.7.28
+6hours and 15min
+
+2017.7.29
+centos
+
+2017.7.30
+feel sad
+
+2017.7.31
+web style
+
+2017.8.1
+xcx order_prods
+
+2017.8.2
+no money in wx and alipay, xcx
+
+2017.8.3
+alipay bug
+
+2017.8.4
+none
+
+2017.8.5
+stay at home
+
+2017.8.6
+blog and books
+
+2017.8.7
+none and selenium
+
+2017.8.8
+selenium
+
+2017.8.9
+selenium
+
+2017.8.10
+selenium
+
+2017.8.11
+selenium
+
+2017.8.12
+none
+
+2017.8.13
+docker
+
+2017.8.14
+selenium
+
+2017.8.15
+selenium
+
+2017.8.16
+gzip
+
+2017.8.17
+none
+
+2017.8.18
+1z1x.vonbors.com selenium
+
+2017.8.19
+unit test
+
+2017.8.20
+home and lol
+
+2017.8.21
+new xcx
+
+2017.8.22
+xcx stock
+
+2017.8.23
+chat close
+
+2017.8.24
+web xcx
+
+2017.8.25
+gift
+
+2017.8.26-27
+dianxin kuandai
+
+2017.8.28
+admin pic
+
+2017.8.29
+os startup
+
+2017.8.30
+return bug
+
+2017.8.31
+different permission
+
+2017.9.1
+none and lpl
+
+2017.9.2-9.3
+lpl
+
+2017.9.4
+xcx time
+
+2017.9.5
+part return
+
+2017.9.6
+return
+
+2017.9.7
+return
+
+2017.9.8
+return
+
+2017.9.9-9.10
+jiaxing museum
+
+207.9.11
+helpers
+
+2017.9.12
+comment
+
+2017.9.13
+iPhone 8 and iPhone X
+
+2017.9.14
+address
+
+2017.9.15
+address
+
+2017.9.16-17
+weekend and center park
+
+2017.9.18
+vonbros.com
+
+2017.9.19
+mp setting
+
+2017.9.20
+order detail page
+
+2017.9.21
+update poster
+
+2017.9.22
+xcx contact
+
+2017.9.23
+xcx contact page
+
+2017.9.24
+hangzhou xihu
+
+2017.9.25
+office
+
+2017.9.26
+xcx contact
+
+2017.9.27
+coupon
+
+2017.9.28
+web contact
+
+2017.9.29
+xcx style
+
+2017.9.30
+xcx version
+
+2017.10.1
+jiaxing and go home
+
+2017.10.2
+from jiaxing to wuhan
+
+2017.10.7
+from wuhan to jiaxing
+
+2017.10.8
+home
+
+2017.10.9
+wrong written
+
+2017.10.10
+portal center in xcx
+
+2017.10.11
+none
+
+2017.10.12
+use coupon
+
+2017.10.13
+xcx
+
+2017.10.14-15
+weekend none
+
+2017.10.16
+xcx 1:1
+
+2017.10.17
+points log
+
+2017.10.18
+xcx category
+
+2017.10.19
+xcx
+
+2017.10.20
+xcx
+
+2017.10.21
+RNG
+
+2017.10,22
+rock wedding and WE
+
+2017.10.23
+points rule
+
+2017.10.24
+mine center level
+
+2017.10.25
+chat bug
+
+2017.10.26
+go to pinghu 1z1x
+
+2017.10.27
+rule of points
+
+2017.10.28
+max home and RNG
+
+2017.10.29
+we
+
+2017.10.30
+modify product
+
+2017.10.31
+cart bug already off
+
+2017.11.1
+modify
+
+2017.11.2
+ticket hide
+
+2017.11.3
+order
+
+2017.11.4
+xcx
+
+2017.11.5
+kk and zz
+
+2017.11.6
+xcx
+
+2017.11.7
+xcx
+
+2017.11.8
+xcx
+
+2017.11.9
+bind phone
+
+2017.11.10
+xcx
+
+2017.11.11
+office
+
+2017.11.12
+ning bo
+
+2017.11.13
+selenium and xcx dot
+
+2017.11.14
+first in office for many weeks
+
+2017.11.15
+order search
+
+2017.11.16
+activity and tag
+
+2017.11.17
+modify 1z1x.vonbros.com's category and update product
+
+2017.11.18-19
+gaozhen in jiaxing
+
+2017.11.20
+order notice
+
+2017.11.21
+1z1x.vonbros.com's product
+
+2017.11.22
+order notice
+
+2017.11.23
+xcx one key buy
+
+2017.11.24
+activity page
+
+2017.11.25-26
+home and none
+
+2017.11.27
+points detail
+
+2017.11.28
+reset password and category
+
+2017.11.29
+first in office
+
+2017.11.30
+late
+
+2017.12.01
+coupon
+
+2017.12.02 - 12.03
+go to shanghai and swim
+
+2017.12.04
+I have a stomachache
+
+2017.12.05
+coupon
+
+2017.12.06
+coupon
+
+2017.12.07
+the first in office
+
+2017.12.08
+poster
+
+2017.12.09
+home
+
+2017.12.10
+home
+
+2017.12.11
+first in office
+
+2017.12.15-16
+kk zz yongde and super in jiaxing
+
+2017.12.17
+stay at home
+
+2017.12.18
+selenium
+
+2017.12.19-12.22
+xcx
+
+2017.12.23
+home and mafeng qing ke
+
+2017.12.24
+Christmas Eve 
+
+2017.12.25
+study http and tcp
+
+2017.12.26
+bsp service
+
+2017.12.27
+bsp service
+
+2017.12.28
+bsp
+
+2017.12.29
+bsp
+
+2017.12.30
+max's dad
+
+2017.12.31
+stay at home
+
+2018.1.1
+study
+
+2018.1.2
+new people
+
+2018.1.3
+the first in office
+
+2018.1.4
+bsp service
+
+2018.1.5
+that is all, we are go to note.youdao.com
