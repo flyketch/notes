@@ -48,4 +48,4 @@
 
 1、 postgres
 
-2、 
+2、 greenplum
