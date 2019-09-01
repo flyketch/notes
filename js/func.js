@@ -7,3 +7,21 @@ function myTemplate(str) {
     // try it
 }
 console.log(myTemplate(str)) // lala在北京海淀区上班...
+
+function action(num = 20) {
+    console.log(20)
+}
+
+action(90)
+action()
+
+const list = [1, 2, 3]
+list.map(x => x + 1)
+
+var people = (name, age) => {
+    const info = `name is ${name}, age is ${age}`
+    console.log(info)
+    return info
+}
+
+people('Steve', 24)
