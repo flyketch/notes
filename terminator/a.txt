@@ -1,0 +1,5 @@
+PING baidu.com (220.181.38.148) 56(84) bytes of data.
+64 bytes from 220.181.38.148: icmp_seq=1 ttl=46 time=34.7 ms
+64 bytes from 220.181.38.148: icmp_seq=2 ttl=46 time=27.6 ms
+64 bytes from 220.181.38.148: icmp_seq=3 ttl=46 time=27.6 ms
+64 bytes from 220.181.38.148: icmp_seq=4 ttl=46 time=28.6 ms
