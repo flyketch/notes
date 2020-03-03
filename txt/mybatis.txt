@@ -1,0 +1,8 @@
+<update id="updateUser" parameterType="com.User">
+update tb_user
+<trim prefix="set" suffixOverrides=",">
+<if test="userName != null">user_name = #{userName}, </if>
+updated = now(),
+</trim>
+where (id = #{id});
+</update>
