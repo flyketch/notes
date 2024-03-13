@@ -46,6 +46,8 @@
 
 2、 spring cloud
 
+3、k8s
+
 # databases
 
 1、 postgres
